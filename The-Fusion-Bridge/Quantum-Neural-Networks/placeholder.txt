@@ -1,1 +1,0 @@
-This is the canvas for my lifetime mission. This folder will host my research on Quantum Neural Networks (QNNs)
