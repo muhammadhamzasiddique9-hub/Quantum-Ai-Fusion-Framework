@@ -1,1 +1,0 @@
-This folder will hold my implementations of Grover's, Shor's, and VQE algorithms
