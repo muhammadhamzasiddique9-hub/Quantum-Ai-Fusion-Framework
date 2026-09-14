@@ -1,0 +1,1 @@
+This folder will hold my notes and Python scripts for matrices, vectors, and eigenvalues from MIT OpenCourseWare.
