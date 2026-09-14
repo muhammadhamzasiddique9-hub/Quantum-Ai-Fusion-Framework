@@ -1,0 +1,1 @@
+This folder handles Quantum Data Encoding, transforming classical AI data into quantum states.
