@@ -1,0 +1,1 @@
+This folder will hold classic neural networks build from scratch
